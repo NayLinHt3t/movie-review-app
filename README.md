@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
+## Movie-Review-App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This app is simple movie review app built by using #Expo,#ReactNative,#TailwindCSS.Users can browse movies, search the movie by it's name, can see which movies are trending and watch detail information about the movie.
 
-## Get started
+-Users land on a **Home Page** with a list of movies.
+-They can tap a product to see more **details**,
+-They can search movies in **search** navigation and review about detail.
 
-1. Install dependencies
+## Function details
 
-   ```bash
-   npm install
-   ```
+| Screen            | Description                                          |
+|-------------------|------------------------------------------------------|
+| **Home**          | Lists available movies,click to see movie detail |
+| **Movie Details** | Shows detailed info of selected movie  |
+| **Search**          | Search movies by typing names|
 
-2. Start the app
+## Reflection of results and experience
 
-   ```bash
-    npx expo start
-   ```
+- Successfully built the '.apk' file
+- Learn to use environment variables on **Expo** application
+- Learn to use reactNative components efficiently and how it improve the readability in coding
+- Need to improve in design
+- More features can be added
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+  
