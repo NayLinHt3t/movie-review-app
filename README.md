@@ -2,9 +2,9 @@
 
 This app is simple movie review app built by using #Expo,#ReactNative,#TailwindCSS.Users can browse movies, search the movie by it's name, can see which movies are trending and watch detail information about the movie.
 
--Users land on a **Home Page** with a list of movies.
--They can tap a product to see more **details**,
--They can search movies in **search** navigation and review about detail.
+- Users land on a **Home Page** with a list of movies.
+- They can tap a product to see more **details**,
+- They can search movies in **search** navigation and review about detail.
 
 ## Function details
 
